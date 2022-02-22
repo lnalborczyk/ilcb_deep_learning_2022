@@ -20,4 +20,4 @@ This work, carried out within the Institut Convergence ILCB (ANR-16-CONV-0002), 
 
 ...
 
-<img src="figures/ilcb_poster.png" alt="poster" width="400" height="200"/>
+<img src="figures/ilcb_poster.png" alt="poster"/>
