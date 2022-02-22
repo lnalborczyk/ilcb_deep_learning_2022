@@ -19,3 +19,5 @@ This work, carried out within the Institut Convergence ILCB (ANR-16-CONV-0002), 
 ## Copyright
 
 ...
+
+<img src="figures/ilcb_poster.pdf" alt="drawing" width="400" height="200"/>
