@@ -10,9 +10,13 @@ Link to slides: ...
 
 Link to `R` notebook: ...
 
-Link to `Python` notebook: ...
+Link to `Python` notebook: `code > emg_classification_python.ipynb`
 
 ## Instructors
+
+### Python
+Go to (Google Colab)[http://colab.research.google.com] and login to your account. Next, click File > Open > GitHub, copy paste the link to the repo and click on the Python notebook:
+<img width="1434" alt="Screenshot 2022-02-23 at 10 20 08" src="https://user-images.githubusercontent.com/10143254/155291296-555db4f8-75b6-433f-86a4-4a81eaefb795.png">
 
 ...
 
