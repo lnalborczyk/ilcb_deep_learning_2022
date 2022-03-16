@@ -6,19 +6,21 @@ Theoretical introduction and hands-on sessions on deep learning and its applicat
 
 ## External resources
 
-Link to slides: ...
+Link to slides: https://tinyurl.com/introdeeplearning2022.
 
-Link to `R` notebook: ...
+Link to `R` notebook: `code > emg_classification_r.ipynb`.
 
-Link to `Python` notebook: `code > emg_classification_python.ipynb`
+Link to `Python` notebook: `code > emg_classification_python.ipynb`.
+
+## Instructions
+
+Go to (Google Colab)[http://colab.research.google.com] and create (login to) your account. Next, click File > Open > GitHub, copy paste the link to the repo and click on the R/Python notebook.
+
+<img width="1434" alt="Screenshot 2022-02-23 at 10 20 08" src="https://user-images.githubusercontent.com/10143254/155291296-555db4f8-75b6-433f-86a4-4a81eaefb795.png">
 
 ## Instructors
 
-### Python
-Go to (Google Colab)[http://colab.research.google.com] and login to your account. Next, click File > Open > GitHub, copy paste the link to the repo and click on the Python notebook:
-<img width="1434" alt="Screenshot 2022-02-23 at 10 20 08" src="https://user-images.githubusercontent.com/10143254/155291296-555db4f8-75b6-433f-86a4-4a81eaefb795.png">
-
-...
+[Daria Goryachun](https://www.lpl-aix.fr/contact/goriachun-daria/), [Eliot Maes](https://www.lpl-aix.fr/contact/maes-eliot/), [Ladislas Nalborczyk](https://www.barelysignificant.com), [Morgane Peirolo](https://morganepeirolo.com).
 
 ## Acknowledgements
 
